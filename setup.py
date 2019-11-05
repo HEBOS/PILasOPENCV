@@ -13,7 +13,7 @@ setup(
     url='https://github.com/bunkahle/PILasOPENCV',
     long_description=open('README.txt').read(),
     platforms = ['any'],
-    install_requires=['numpy', 'opencv-python', 'freetype-py', 'mss', 'gif2numpy', 'numpy2gif'],
+    install_requires=['numpy', 'freetype-py', 'mss', 'gif2numpy', 'numpy2gif'],
     keywords = 'PIL OPENCV wrapper',
     classifiers=[
     # How mature is this project? Common values are
